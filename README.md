@@ -6,6 +6,6 @@ Try a lot of it.
 
 The project has the following dependencies:
 
-*dlib
-*cv2
-*numpy
+* dlib
+* cv2
+* numpy
