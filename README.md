@@ -1,5 +1,6 @@
 # face-change
-一个实现神器的换脸技术的小脚本。
-将目标文件夹中的脸替换成内容文件夹中的脸，由于编写了循环，所以这一切都是自动进行的，只要将图片放在对应文件夹中就行。
-除了交换人脸，也能将表情包中的脸替换成你想要的脸。
-多多尝试吧。
+A small script to implement the artifact's face changing technology.
+Replace the face in the target folder into the face in the content folder. Because of the loop, all this is done automatically, as long as the picture is placed in the corresponding folder.
+In addition to exchanging faces, you can also replace the faces in the expression package into the faces you want.
+Try a lot of it.
+The project has the following dependencies:
