@@ -3,7 +3,7 @@
 """
 Created on Fri May 11 10:26:11 2018
 
-@author: ruicheng
+@author: little-frog
 """
 
 import cv2
